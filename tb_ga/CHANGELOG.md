@@ -7,19 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.2.0](https://github.com/Vrixyz/tb_ga/compare/v0.1.0...v0.2.0) - 2025-10-18
-
-### Changed
-
-- changed my username
+## [0.1.1](https://github.com/ThierryBerger/tb_ga/releases/tag/v0.1.1) - 2025-11-07
 
 ### Other
 
-- support closures
-
-## [0.1.0](https://github.com/ThierryBerger/tb_ga/releases/tag/v0.1.0) - 2025-09-30
-
-### Other
-
-- add activity type to callback
-- spawn a ui activity
+- minor doc update
+- first commit
