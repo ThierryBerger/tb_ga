@@ -1,0 +1,25 @@
+[package]
+name = "tb_ga"
+version = "0.1.1"
+edition = "2024"
+license = "MIT"
+authors = ["Thierry Berger <contact@thierryberger.com>"]
+documentation = "https://docs.rs/tb_ga"
+repository = "https://github.com/ThierryBerger/tb_ga"
+keywords = ["UIAactivity", "gamedev", "mobile", "ios", "swift"]
+description = "Start a UIActivity on iOS from Rust code."
+
+[package.metadata.docs.rs]
+targets = [
+    # macOS
+    "aarch64-apple-darwin",
+    "x86_64-apple-darwin",
+    # iOS
+    "aarch64-apple-ios",
+]
+
+[dependencies]
+libc = "0.2" # For free() and CString
+
+[lints.rust]
+missing_docs = "warn"
