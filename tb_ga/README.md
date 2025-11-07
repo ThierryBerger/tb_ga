@@ -6,6 +6,11 @@ My crate to handle [Game Analytics](gameanalytics.com) from Rust, for now focuse
 
 ## Features
 
+- initialization
+- Events
+  - Design
+  - Business
+  - Progression
 
 
 ## Instructions
