@@ -1,6 +1,6 @@
 # Thierry Berger Game Analytics
 
-My crate to handle [Game Analytics](gameanalytics.com) from Rust, for now focused on iOS.
+My crate to handle [Game Analytics](http://www.gameanalytics.com) from Rust, for now focused on iOS.
 
 <!-- TODO: Demo -->
 
